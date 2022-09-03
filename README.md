@@ -1,1 +1,1 @@
-Esse repositório mostra a primeira tentativa bem sucedida (espero kk) de um futuro programador.
+# Repositório criado para a primeira tarefa do curso de desenvolvimento web da Cubos Academy.
